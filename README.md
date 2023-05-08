@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronnie Kaito! <br/><a href="https://github.com/ronnieima">Programmer</a>
+<h1>Hi, I'm Ronnie Kaito! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
