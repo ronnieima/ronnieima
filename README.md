@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithims Class</b>
+- <b>Python</b>
   - [Traveling Salesman Problem [in progress]](https://github.com/ronnieima/traveling-salesman)
+- <b>Java</b>
+  - [Inventory Mangement System [in progress]](https://github.com/ronnieima/inventory_management_system)
 
 
 <h2> 🤳 Connect with me:</h2>
