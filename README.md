@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Traveling Salesman Problem [in progress]](https://github.com/ronnieima/traveling-salesman)
+  - [Package Delivery using the Nearest Neighbor Algorithm](https://github.com/ronnieima/traveling-salesman)
 - <b>Java</b>
   - [Inventory Mangement System [in progress]](https://github.com/ronnieima/inventory_management_system)
 
