@@ -7,6 +7,8 @@
 - <b>Java</b>
   - [Inventory Mangement System [in progress]](https://github.com/ronnieima/inventory_management_system)
   - [Appointment Scheduler Desktop App [in progress]](https://github.com/ronnieima/scheduling-desktop-app)
+- <b>AI</b>
+  - Career Advisor Chatbot [in progress]
 
 
 <h2> 🤳 Connect with me:</h2>
