@@ -5,10 +5,12 @@
 - <b>Python</b>
   - [Package Delivery using the Nearest Neighbor Algorithm](https://github.com/ronnieima/traveling-salesman)
 - <b>Java</b>
-  - [Inventory Mangement System [in progress]](https://github.com/ronnieima/inventory_management_system)
-  - [Appointment Scheduler Desktop App [in progress]](https://github.com/ronnieima/scheduling-desktop-app)
+  - [Inventory Mangement System](https://github.com/ronnieima/inventory_management_system)
+  - [Appointment Scheduler Desktop App](https://github.com/ronnieima/scheduling-desktop-app)
 - <b>AI</b>
-  - Career Advisor Chatbot [in progress]
+  - [Career Advisor Chatbot](https://github.com/ronnieima/kaito-chat-bot)
+  - [Predicting a Video Game’s Global Sales Using Machine Learning](https://github.com/ronnieima/game-global-sales-predictor)
+  
 
 
 <h2> 🤳 Connect with me:</h2>
