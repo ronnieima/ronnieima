@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ronnie Kaito! <br/>
 
+Currently working on full-stack web application projects!
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
