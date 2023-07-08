@@ -7,7 +7,7 @@ Currently working on full-stack web application projects!
 - <b>Python</b>
   - [Package Delivery using the Nearest Neighbor Algorithm](https://github.com/ronnieima/traveling-salesman)
 - <b>Java</b>
-  - [Inventory Mangement System](https://github.com/ronnieima/inventory_management_system)
+  - [Hornet Sports - Inventory Mangement System](https://github.com/ronnieima/inventory_management_system)
   - [Appointment Scheduler Desktop App](https://github.com/ronnieima/scheduling-desktop-app)
 - <b>AI</b>
   - [Career Advisor Chatbot](https://github.com/ronnieima/kaito-chat-bot)
