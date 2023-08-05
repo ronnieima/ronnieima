@@ -4,6 +4,9 @@ Currently working on full-stack web application projects!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>React</b>
+  - [Quiz App](https://github.com/ronnieima/quiz-app)
+  
 - <b>Python</b>
   - [Package Delivery using the Nearest Neighbor Algorithm](https://github.com/ronnieima/traveling-salesman)
 - <b>Java</b>
