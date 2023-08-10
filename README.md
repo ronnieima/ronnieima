@@ -4,16 +4,23 @@ Currently working on full-stack web application projects.
 
 # 💫 About Me:
 
-### 🚀 Full Stack Developer | Active Duty US Air Force stationed in Germany
+### 🚀 Full Stack Developer | Active Duty US Air Force
 
 - 🎓 B.S. in Computer Science.
 - 🛠️ Actively building a diverse range of projects.
-- 🌊 Planning to relocate to San Diego, CA.
 - 🌐 Excited to collaborate and contribute to impactful tech solutions.
 
 
 # 👨‍💻 Projects:
-### - [Quiz App Repository](https://github.com/ronnieima/quiz-app)
+### - <b>React</b>
+  - [Quiz App Repository](https://github.com/ronnieima/quiz-app)
+
+### - <b>Java</b>
+  - [Hornet Sports - Inventory Mangement System](https://github.com/ronnieima/inventory_management_system)
+  - [Appointment Scheduler Desktop App](https://github.com/ronnieima/scheduling-desktop-app)
+### - <b>AI</b>
+  - [Career Advisor Chatbot](https://github.com/ronnieima/kaito-chat-bot)
+  - [Predicting a Video Game’s Global Sales Using Machine Learning](https://github.com/ronnieima/game-global-sales-predictor)
 
 
 
