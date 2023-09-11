@@ -13,6 +13,7 @@ Currently working on full-stack web application projects.
 
 # 👨‍💻 Projects:
 ### - <b>React</b>
+  - [USAF PT Test Calculator](https://github.com/ronnieima/usaf-pt-calculator)
   - [Quiz App Repository](https://github.com/ronnieima/quiz-app)
 
 ### - <b>Java</b>
