@@ -1,20 +1,18 @@
-<h1>Hi, I'm Ronnie Kaito! 👋<br/>
-
-Currently working on full-stack web application projects.
+[![Ronnie's GitHub Banner](./assets/banner.jpeg)](https://imagawa.dev)
 
 # 💫 About Me:
 
 ### 🚀 Full Stack Developer | Active Duty US Air Force
 
-- 🎓 B.S. in Computer Science.
-- 🛠️ Actively building a diverse range of projects.
-- 🌐 Excited to collaborate and contribute to impactful tech solutions.
+I’m Ronnie Kaito, a software engineer who specializes in full stack web development. My goal is to create user-centric experiences that meet and exceed expectations.
+
+Want to know more about me? [Check out my portfolio.](https://imagawa.dev)
 
 
 # 👨‍💻 Projects:
 ### - <b>React</b>
   - [USAF PT Test Calculator](https://github.com/ronnieima/usaf-pt-calculator)
-  - [Quiz App Repository](https://github.com/ronnieima/quiz-app)
+  - [Quiz App](https://github.com/ronnieima/quiz-app)
 
 ### - <b>Java</b>
   - [Hornet Sports - Inventory Mangement System](https://github.com/ronnieima/inventory_management_system)
