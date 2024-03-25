@@ -8,6 +8,7 @@ I’m Ronnie Kaito, an active duty service member who is passionate about crafti
 
 
 # 👨‍💻 Projects:
+- [Audiophile - Full Stack Ecommerce Website](https://github.com/ronnieima/audiophile-ecommerce)
 - [USAF PT Test Calculator](https://github.com/ronnieima/usaf-pt-calculator)
 - [Anime Pomodoro](https://github.com/ronnieima/animepomodoro)
 - [Portfolio Page](https://github.com/ronnieima/portfolio)
