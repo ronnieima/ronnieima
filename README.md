@@ -1,8 +1,6 @@
 [![Ronnie's GitHub Banner](./assets/banner.png)](https://imagawa.dev)
 
-### Full Stack Developer | Active Duty US Air Force
-
-I’m Ronnie Kaito, an active duty service member who is passionate about crafting solutions through code.
+### Full Stack Developer 
 
 [Check out my portfolio!](https://imagawa.dev)
 
