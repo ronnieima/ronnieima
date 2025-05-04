@@ -8,7 +8,6 @@
 # 👨‍💻 Projects:
 - [Devlinks - Full Stack Link-Sharing Web App](https://github.com/ronnieima/link-sharing-app)
 - [Audiophile - Full Stack Ecommerce Website](https://github.com/ronnieima/audiophile-ecommerce)
-- [USAF PT Test Calculator](https://github.com/ronnieima/usaf-pt-calculator)
 - [Anime Pomodoro](https://github.com/ronnieima/animepomodoro)
 - [Portfolio Page](https://github.com/ronnieima/portfolio)
 - [Selfiebooth Guam Landing Page](https://github.com/ronnieima/selfieboothguam)
